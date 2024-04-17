@@ -12,6 +12,3 @@ redirect_from:
 with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/home)
 
 # Publications
-P1
-
-P2
