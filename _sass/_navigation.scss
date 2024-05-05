@@ -87,16 +87,9 @@
       border: 1px solid $light-gray;
       border-radius: 0;
 
-      /* Links - General customization */
-      text-decoration: none;  // Removes underline from all links in normal state
-      color: $link-color;  // Uses the color specified in your variables
-      &:hover {
-        text-decoration: none;  // Keeps underline removed on hover
+      &:hover {       
         color: $link-color-hover;  // Uses hover color specified in your variables
-      }
-      &:visited {
-        color: $link-color-visited;  // Uses visited color specified in your variables
-      }
+      }             
        
       &.current {
         color: #fff;
