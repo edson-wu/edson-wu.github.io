@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 I am a PhD candidate in Economics at The University of Texas at Austin. <br>
+**I will be on the job market during the 2024-2025 academic year.**
+
 My research interests are in macroeconomics and monetary economics.
 
 # Working Papers
