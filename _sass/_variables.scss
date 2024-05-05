@@ -108,6 +108,21 @@ $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
+/* Links - General customization */
+a {
+  text-decoration: none;  // Removes underline from all links in normal state
+  color: $link-color;  // Uses the color specified in your variables
+
+  &:hover {
+    text-decoration: none;  // Keeps underline removed on hover
+    color: $link-color-hover;  // Uses hover color specified in your variables
+  }
+
+  &:visited {
+    color: $link-color-visited;  // Uses visited color specified in your variables
+  }
+}
+
 
 /*
    Breakpoints
