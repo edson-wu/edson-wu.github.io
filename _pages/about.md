@@ -20,7 +20,7 @@ with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.
 # Working Papers
 
 
-# Working in Progress 
+# Work in Progress 
 "[The Welfare Cost of Inflation in Production Networks](https://afrouzi.com/abw_slides.pdf)" <br>
 with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/home) <br>
 
