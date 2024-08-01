@@ -18,7 +18,7 @@ with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.
 **Journal of Monetary Economics**, Accepted
 
 # Working Papers
-"Rationally Inattentive Seller: The Geographic Dispersion of U.S. Retail Chains and its Aggregate Implications" (\textit{draft coming soon!}) 			    		
+"Rationally Inattentive Seller: The Geographic Dispersion of U.S. Retail Chains and its Aggregate Implications" (_draft coming soon!_) 			    		
 
 # Work in Progress 
 "[The Welfare Cost of Inflation in Production Networks](https://afrouzi.com/abw_slides.pdf)" <br>
