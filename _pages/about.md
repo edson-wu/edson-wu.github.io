@@ -15,7 +15,7 @@ My research interests are in macroeconomics and monetary economics.
 # Publications
 "[Relative-Price Changes as Aggregate Supply Shocks Revisited: Theory and Evidence](https://afrouzi.com/abw_relative_prices.pdf)" <br>
 with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/home) <br>
-**Journal of Monetary Economics**, Accepted
+**Journal of Monetary Economics**, Forthcoming
 
 # Working Papers
 "Rationally Inattentive Seller: The Geographic Dispersion of U.S. Retail Chains and its Aggregate Implications" (_draft coming soon!_) 			    		
