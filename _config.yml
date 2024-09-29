@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "UT_edson_wu_iphone_filter_warmer_1x1.jpg"
-  name             : "Edson Wu"
+  name             : #"Edson Wu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Economics at The University of Texas at Austin"
+  bio              : #"PhD Candidate in Economics at The University of Texas at Austin"
   location         : "Austin, TX"
   employer         : "The University of Texas at Austin"
   uri              : # URL
