@@ -13,7 +13,7 @@ I am a PhD candidate in Economics at The University of Texas at Austin.
 <div style="text-align: justify;">
 My research agenda centers on macroeconomics and monetary economics, with a particular focus on how expectations formation by
 different agents shapes the transmission of economic shocks to the aggregate economy.
-
+<br>
 </div>
 
 # Working Papers
