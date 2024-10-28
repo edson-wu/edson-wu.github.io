@@ -110,7 +110,7 @@ blockquote {
 }
 
 /* links */
-/*
+
 a {  
   &:focus {
     @extend %tab-focus;
@@ -121,25 +121,7 @@ a {
     outline: 0;
   }
 }
-*/
-a {
-  color: inherit; /* Matches the surrounding text color */
-  text-decoration: none; /* No underline by default */
-  background: transparent;
-  
-  &:focus {
-    @extend %tab-focus;
-  }
 
-  &:hover {
-    text-decoration: underline; /* Show underline on hover */
-    background: transparent;
-  }
-
-  &:active {
-    outline: 0;
-  }
-}
 
 /* code */
 
