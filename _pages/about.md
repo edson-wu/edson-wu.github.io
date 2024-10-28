@@ -25,7 +25,7 @@ This paper studies how the organizational structure-whether decisions are made a
 <div style="margin-top: 10px;">
 </div>
 <div style="font-size: 0.9em;">
-Presented at: Federal Reserve Board (2024), Southern Economic Association Meeting (2024)*, Texas Macro Job Candidates Workshop (2024) (* denotes scheduled) 
+Presented at: Federal Reserve Board (2024), Midwest Macroeconomics Meeting (Fall 2023), Southern Economic Association Meeting (2024)*, Texas Macro Job Candidates Workshop (2024) (* denotes scheduled) 
 </div>
 <div style="margin-top: 20px;">
 </div>
