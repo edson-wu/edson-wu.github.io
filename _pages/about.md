@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="text-align: justify;">
 I am a PhD candidate in Economics at The University of Texas at Austin. 
 
 **I will be on the job market during the 2024-2025 academic year.** 
