@@ -38,7 +38,7 @@ with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.
 <div style="margin-top: 10px;">
 </div>
 <div style="font-size: 0.9em;">
-Presented at: 2025 American Economic Associated Meeting*, Midwest Macroeconomics Meeting (Fall 2024), NBER Inflation in the COVID Era and Beyond (Spring 2024) (* denotes scheduled) 
+Presented at: 2025 American Economic Association Meeting*, Midwest Macroeconomics Meeting (Fall 2024), NBER Inflation in the COVID Era and Beyond (Spring 2024) (* denotes scheduled) 
 </div>
 <div style="margin-top: 20px;">
 </div>
