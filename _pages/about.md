@@ -26,9 +26,9 @@ This paper studies how the organizational structure-whether decisions are made a
 </div></div>
 <div style="margin-top: 10px;">
 </div>
-<div style="font-size: 0.9em;">
+<div style="font-size: 0.9em;"><div style="text-align: justify;">
 Presented at: Federal Reserve Board (2024), Midwest Macroeconomics Meeting (Fall 2023), Southern Economic Association Meeting (2024)*, Texas Macro Job Candidates Workshop (2024) (* denotes scheduled) 
-</div>
+</div></div>
 <div style="margin-top: 20px;">
 </div>
 # Publications
@@ -37,9 +37,9 @@ with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.
 **Journal of Monetary Economics**, Forthcoming 
 <div style="margin-top: 10px;">
 </div>
-<div style="font-size: 0.9em;">
+<div style="font-size: 0.9em;"><div style="text-align: justify;">
 Presented at: American Economic Association Meeting (2025)*, Midwest Macroeconomics Meeting (Fall 2024), NBER Inflation in the COVID Era and Beyond (Spring 2024) (* denotes scheduled) 
-</div>
+</div></div>
 <div style="margin-top: 20px;">
 </div>
 # Work in Progress 
