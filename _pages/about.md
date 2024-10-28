@@ -13,6 +13,7 @@ I am a PhD candidate in Economics at The University of Texas at Austin.
 
 My research agenda centers on macroeconomics and monetary economics, with a particular focus on how expectations formation by
 different agents shapes the transmission of economic shocks to the aggregate economy.
+</div>
 
 # Working Papers
 "[Rationally Inattentive Seller: The Geographic Dispersion of U.S. Retail Chains and its Aggregate Implications](https://edson-wu.github.io/files/RI-multi-region.pdf)" <span style="color:#BF5700;"><strong>(Job Market Paper)</strong></span>
