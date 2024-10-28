@@ -15,8 +15,8 @@ My research agenda centers on macroeconomics and monetary economics, with a part
 different agents shapes the transmission of economic shocks to the aggregate economy.
 </div>
 
-<br>
-
+<div style="margin-top: 20px;">
+</div>
 # Working Papers
 "[Rationally Inattentive Seller: The Geographic Dispersion of U.S. Retail Chains and its Aggregate Implications](https://edson-wu.github.io/files/RI-multi-region.pdf)" <span style="color:#BF5700;"><strong>(Job Market Paper)</strong></span> <br>
 <div style="font-size: 0.9em;"><div style="text-align: justify;">
