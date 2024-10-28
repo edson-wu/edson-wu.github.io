@@ -10,7 +10,8 @@ I am a PhD candidate in Economics at The University of Texas at Austin.
 
 **I will be on the job market during the 2024-2025 academic year.** 
 
-My research interests are in macroeconomics and monetary economics.
+My research agenda centers on macroeconomics and monetary economics, with a particular focus on how expectations formation by
+different agents shapes the transmission of economic shocks to the aggregate economy.
 
 # Working Papers
 "[Rationally Inattentive Seller: The Geographic Dispersion of U.S. Retail Chains and its Aggregate Implications](https://edson-wu.github.io/files/RI-multi-region.pdf)" (Job Market Paper) 			    		
