@@ -26,7 +26,7 @@ with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.
 **Journal of Monetary Economics**, Forthcoming <br>
 <div style="font-size: 0.75em;">
 Presented at: 2025 American Economic Associated Meeting*, Midwest Macroeconomics Meeting (Fall 2024), NBER Inflation in the COVID Era and Beyond (Spring 2024) (* denotes scheduled)
-<\div>
+</div>
   
 # Work in Progress 
 "[The Welfare Cost of Inflation in Production Networks](https://afrouzi.com/abw_slides.pdf)" <br>
