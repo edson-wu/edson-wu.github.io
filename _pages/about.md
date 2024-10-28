@@ -14,7 +14,7 @@ My research agenda centers on macroeconomics and monetary economics, with a part
 different agents shapes the transmission of economic shocks to the aggregate economy.
 
 # Working Papers
-"[Rationally Inattentive Seller: The Geographic Dispersion of U.S. Retail Chains and its Aggregate Implications](https://edson-wu.github.io/files/RI-multi-region.pdf)" <span style="color:#BF5700;">(Job Market Paper)</span> (Job Market Paper) 			    		
+"[Rationally Inattentive Seller: The Geographic Dispersion of U.S. Retail Chains and its Aggregate Implications](https://edson-wu.github.io/files/RI-multi-region.pdf)" <span style="color:#BF5700;"><strong>(Job Market Paper)</strong></span>
 
 # Publications
 "[Relative-Price Changes as Aggregate Supply Shocks Revisited: Theory and Evidence](https://afrouzi.com/abw_relative_prices.pdf)" <br>
