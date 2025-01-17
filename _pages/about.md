@@ -38,14 +38,16 @@ with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.
 <div style="margin-top: 10px;">
 </div>
 <div style="font-size: 0.9em;"><div style="text-align: justify;">
-Presented at: American Economic Association Meeting (2025)*, Midwest Macroeconomics Meeting (Fall 2024), NBER Inflation in the COVID Era and Beyond (Spring 2024) (* denotes scheduled) 
+Presented at: Midwest Macroeconomics Meeting (Fall 2024), NBER Inflation in the COVID Era and Beyond (Spring 2024) (* denotes scheduled) 
 </div></div>
 <div style="margin-top: 20px;">
 </div>
 # Work in Progress 
 "[The Welfare Cost of Inflation in Production Networks](https://afrouzi.com/abw_slides.pdf)" <br>
 with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/home) <br>
-
+<div style="font-size: 0.9em;"><div style="text-align: justify;">
+Presented at: American Economic Association Meeting (2025)
+</div></div>
 
 
 
