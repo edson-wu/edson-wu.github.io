@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate in Economics at The University of Texas at Austin. 
 
-**I will be on the job market during the 2024-2025 academic year.** 
+I will be joining the Federal Reserve Board as an economist in the summer of 2025.
 <div style="text-align: justify;">
 My research agenda centers on macroeconomics and monetary economics, with a particular focus on how expectations formation by
 different agents shapes the transmission of economic shocks to the aggregate economy.
