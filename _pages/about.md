@@ -27,7 +27,7 @@ different agents shapes the transmission of economic shocks to the aggregate eco
 # Publications
 "[Relative-Price Changes as Aggregate Supply Shocks Revisited: Theory and Evidence](https://afrouzi.com/abw_relative_prices.pdf)" <br>
 with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/home) <br>
-**Journal of Monetary Economics**, Journal of Monetary Economics, Volume 148, Supplement, November 2024
+**Journal of Monetary Economics**, Volume 148, Supplement, November 2024
 <div style="margin-top: 10px;">
 </div>
 <div style="margin-top: 20px;">
