@@ -13,6 +13,7 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
+$spectral: 'Spectral', Georgia, serif;
 $eb-garamond                : 'EB Garamond', Georgia, serif;
 $libre-baskerville          : 'Libre Baskerville', Georgia, serif;
 $inter                      : 'Inter', system-ui, sans-serif;
@@ -31,9 +32,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $inter;
-$header-font-family         : $inter;
-$caption-font-family        : $inter;
+$global-font-family         : $spectral;//$inter;
+$header-font-family         : $spectral;//$inter;
+$caption-font-family        : $spectral;//$inter;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
