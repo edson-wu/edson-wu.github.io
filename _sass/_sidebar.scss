@@ -5,7 +5,7 @@
 /*
    Default
    ========================================================================== */
-/*
+
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
@@ -19,20 +19,8 @@
     position: fixed;
     padding-top: $masthead-height;
   }
-*/
 
- .sidebar {
-  // ... your existing styles ...
-  width: 320px; // Add this line to set a fixed width
 
-  @media screen and (min-width: $sidebar-min-width) {
-    height: 100vh;
-    overflow-y: auto;
-    position: fixed;
-    padding-top: $masthead-height;
-    width: 320px; // Also add here if you want a different width on desktop
-  }
-}
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
