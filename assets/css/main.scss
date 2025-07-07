@@ -41,11 +41,15 @@
 @import "print";
 
 // Custom link style: no underline except on hover/focus
-a {
-  text-decoration: none;
+a, a:visited, .page__content a, .archive__item-title a {
+  text-decoration: none !important;
 }
 
 a:hover,
-a:focus {
-  text-decoration: underline;
+a:focus,
+.page__content a:hover,
+.page__content a:focus,
+.archive__item-title a:hover,
+.archive__item-title a:focus {
+  text-decoration: underline !important;
 }
