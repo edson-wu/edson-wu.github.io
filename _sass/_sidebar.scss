@@ -5,7 +5,7 @@
 /*
    Default
    ========================================================================== */
-
+/*
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
@@ -19,7 +19,20 @@
     position: fixed;
     padding-top: $masthead-height;
   }
+*/
 
+ .sidebar {
+  // ... your existing styles ...
+  width: 320px; // Add this line to set a fixed width
+
+  @media screen and (min-width: $sidebar-min-width) {
+    height: 100vh;
+    overflow-y: auto;
+    position: fixed;
+    padding-top: $masthead-height;
+    width: 320px; // Also add here if you want a different width on desktop
+  }
+}
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
@@ -79,7 +92,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 288px; //196px;      
+  width: 256px; //196px;      
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -90,7 +103,7 @@
   }
 
   img {
-    max-width: 320px; // increased from 224px   
+    max-width: 288px; // increased from 224px   
     width: 100%; // ensures responsiveness
     border-radius: 10%;    
     @include breakpoint($large) {
