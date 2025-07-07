@@ -13,6 +13,7 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
+$source-serif-4: 'Source Serif 4', 'Georgia', 'Times New Roman', Times, serif;
 $taviraj: 'Taviraj', 'Georgia', 'Times New Roman', Times, serif;
 $roboto-serif: 'Roboto Serif', 'Georgia', 'Times New Roman', Times, serif;
 $lato: 'Lato', 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;
@@ -35,9 +36,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $taviraj;//$lato;//$inter;
-$header-font-family         : $taviraj;//$lato;//$inter;
-$caption-font-family        : $taviraj;//$lato;//$inter;
+$global-font-family         : $source-serif-4;//$lato;//$inter;
+$header-font-family         : $source-serif-4;//$lato;//$inter;
+$caption-font-family        : $source-serif-4;//$lato;//$inter;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
