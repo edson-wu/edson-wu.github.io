@@ -14,6 +14,7 @@ My research agenda centers on macroeconomics and monetary economics, with a part
 different agents shapes the transmission of economic shocks to the aggregate economy.
 </div>
 
+
 <div style="text-align: justify;">
 This is a personal website. The views expressed on this website are my own and do not necessarily reflect those of the Board of Governors or the Federal Reserve System.
 </div>
