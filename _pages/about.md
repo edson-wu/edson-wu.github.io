@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at The University of Texas at Austin. 
+I am an Economist in the Macroeconomic and Quantitative Studies section at the Board of Governors of the Federal Reserve.
 
-I will be joining the Federal Reserve Board as an Economist in the summer of 2025.
 <div style="text-align: justify;">
 My research agenda centers on macroeconomics and monetary economics, with a particular focus on how expectations formation by
 different agents shapes the transmission of economic shocks to the aggregate economy.
+</div>
+
+<div style="text-align: justify;">
+This is a personal website. The views expressed on this website are my own and do not necessarily reflect those of the Board of Governors or the Federal Reserve System.
 </div>
 
 <div style="margin-top: 20px;">
