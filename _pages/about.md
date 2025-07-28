@@ -7,17 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am an Economist in the Macroeconomic and Quantitative Studies section at the Board of Governors of the Federal Reserve.
+<p style="text-align: justify;">
+  I am an Economist in the Macroeconomic and Quantitative Studies section at the Board of Governors of the Federal Reserve.
+</p>
 
-<div style="text-align: justify;">
-My research agenda centers on macroeconomics and monetary economics, with a particular focus on how expectations formation by
-different agents shapes the transmission of economic shocks to the aggregate economy.
-</div>
+<p style="text-align: justify;">
+  My research agenda centers on macroeconomics and monetary economics, with a particular focus on how expectations formation by
+  different agents shapes the transmission of economic shocks to the aggregate economy.
+</p>
 
-
-<div style="text-align: justify;">
-This is a personal website. The views expressed on this website are my own and do not necessarily reflect those of the Board of Governors or the Federal Reserve System.
-</div>
+<p style="text-align: justify;">
+  This is a personal website. The views expressed on this website are my own and do not necessarily reflect those of the Board of Governors or the Federal Reserve System.
+</p>
 
 <div style="margin-top: 20px;">
 </div>
