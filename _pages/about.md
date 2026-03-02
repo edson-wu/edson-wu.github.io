@@ -27,7 +27,7 @@ redirect_from:
 <div style="margin-top: 10px;">
 </div>
 
-"[The Welfare Cost of Inflation in Production Networks](https://afrouzi.com/welfare-cost-inflation-production-networks/)"
+"[The Welfare Cost of Inflation in Production Networks](https://afrouzi.com/welfare-cost-inflation-production-networks/)" <br>
 with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/home)
 <div style="margin-top: 10px;">
 </div>
