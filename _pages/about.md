@@ -27,6 +27,11 @@ redirect_from:
 <div style="margin-top: 10px;">
 </div>
 
+"[The Welfare Cost of Inflation in Production Networks](https://afrouzi.com/welfare-cost-inflation-production-networks/)"
+with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/home)
+<div style="margin-top: 10px;">
+</div>
+
 <div style="margin-top: 20px;">
 </div>
 ## Publications
@@ -38,8 +43,7 @@ with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.
 <div style="margin-top: 20px;">
 </div>
 ## Work in Progress 
-"[The Welfare Cost of Inflation in Production Networks](https://afrouzi.com/abw_slides.pdf)" <br>
-with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/home) <br>
+
 
 
 
