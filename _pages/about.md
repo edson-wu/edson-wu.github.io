@@ -23,12 +23,17 @@ redirect_from:
 <div style="margin-top: 20px;">
 </div>
 ## Working Papers
-"[Rationally Inattentive Seller: The Geographic Dispersion of U.S. Retail Chains and its Aggregate Implications](https://edson-wu.github.io/files/RI-multi-region.pdf)" <span style="color:#BF5700;"><strong>(Job Market Paper)</strong></span> 
+"[Inattentive Price Setting and Inflation under Fiscal Policy Uncertainty](https://www.oliverpfaeuti.com/website/PfaeutiWu.pdf)" <br>
+with [Oliver Pfäuti](https://sites.google.com/view/pfaeuti/home?authuser=0)
 <div style="margin-top: 10px;">
 </div>
 
 "[The Welfare Cost of Inflation in Production Networks](https://afrouzi.com/welfare-cost-inflation-production-networks/)" <br>
 with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/home)
+<div style="margin-top: 10px;">
+</div>
+
+"[Rationally Inattentive Seller: The Geographic Dispersion of U.S. Retail Chains and its Aggregate Implications](https://edson-wu.github.io/files/RI-multi-region.pdf)" <span style="color:#BF5700;"><strong>(Job Market Paper)</strong></span> 
 <div style="margin-top: 10px;">
 </div>
 
@@ -39,10 +44,7 @@ with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.
 with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/home) <br>
 **Journal of Monetary Economics**, Volume 148, Supplement, November 2024
 <div style="margin-top: 10px;">
-</div>
-<div style="margin-top: 20px;">
-</div>
-## Work in Progress 
+</div> 
 
 
 
