@@ -23,6 +23,11 @@ redirect_from:
 <div style="margin-top: 20px;">
 </div>
 ## Working Papers
+"[Liquidity for Transformation: Bank Credit and Firms' AI Adoption](https://www.dropbox.com/scl/fi/h8d83u7mnhg56heucfrnj/AI-and-Bank-Credit.pdf?rlkey=96i5fqyjxdhfpwb3y950cfy6q&st=zx0kkjk0&e=1&dl=0)" <br>
+with [Sharjil Haque](https://sites.google.com/view/sharjil-haque/home), [Yusik Kim](https://www.yusikkim.com/), and [Simon Mayer](https://sites.google.com/view/simonmayer/)
+<div style="margin-top: 10px;">
+</div>
+
 "[Inattentive Price Setting and Inflation under Fiscal Policy Uncertainty](https://www.oliverpfaeuti.com/website/PfaeutiWu.pdf)" <br>
 with [Oliver Pfäuti](https://sites.google.com/view/pfaeuti/home?authuser=0)
 <div style="margin-top: 10px;">
